@@ -61,7 +61,7 @@
         <div class="jumbotron hero-technology" style="background-image:url(&quot;assets/img/4.png&quot;);background-color:rgba(255,255,255,0.97);color:rgb(255,255,255);">
          
         <div>
-        <h1 class="hero-title" style="color:#ffffff;font-size:45px;font-family:'Open Sans', sans-serif;background-color:rgba(255,255,255,0);"><br><strong>Boss&nbsp;Cars Hels you</strong><br></h1>
+        <h1 class="hero-title" style="color:#ffffff;font-size:45px;font-family:'Open Sans', sans-serif;background-color:rgba(255,255,255,0);"><br><strong>Boss&nbsp;Cars Helps you</strong><br></h1>
         <p class="hero-subtitle" style="color:#ffffff;background-color:rgba(255,254,254,0);"><br>Lorem Ipsum is simply dummy text of the printing&nbsp;<br>and typesetting industry.<br></p>
     
     </div>
