@@ -1,0 +1,27 @@
+.article-dual-column {
+  color:#56585b;
+  background-color:#fff;
+  font-family:'Lora', serif;
+  font-size:14px;
+}
+
+.article-dual-column .intro {
+  font-size:16px;
+  margin:0 auto 30px;
+}
+
+.article-dual-column .intro img {
+  margin-top:25px;
+}
+
+.article-dual-column .text p {
+  margin-bottom:20px;
+  line-height:1.45;
+}
+
+@media (min-width:768px) {
+  .article-dual-column .text p {
+    font-size:16px;
+  }
+}
+
